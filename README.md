@@ -6,7 +6,7 @@ Here you'll find a collection of my projects that showcase my skills and interes
 ## 💼 Projects
 
 ### SQL
-#### [Project 1: Covid Project SQL Data Exploration](https://github.com/Craig-Vaughan-R/CovidProjectSQLDataExploration)
+#### [COVID- 19 Data Exploration](https://github.com/Craig-Vaughan-R/CovidProjectSQLDataExploration)
 
 🔍 Description: Briefly describe what this project is about and what technologies were used.
 
