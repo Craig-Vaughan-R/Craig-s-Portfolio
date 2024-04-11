@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Craig!
+# 👋 Hi, I'm Craig!
   
 Welcome to my Data Analyst portfolio! 
 Here you'll find a collection of my projects that showcase my skills and interests.
@@ -11,7 +11,7 @@ Here you'll find a collection of my projects that showcase my skills and interes
 🔍 Description: Briefly describe what this project is about and what technologies were used.
 
 ### PowerBI
-#### [Project 2 Name](Link to Project 7 Repository)
+#### [Data Professionals Survey](https://github.com/Craig-Vaughan-R/Data-Professional-Survey-Insights-PowerBI/blob/main/Data%20Profesional%20Survey%20PowerBI.pdf)
 🔍 Description: Briefly describe what this project is about and what technologies were used.
 
 ## 📬 Contact Me
