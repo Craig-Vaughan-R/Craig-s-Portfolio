@@ -6,13 +6,13 @@ Here you'll find a collection of my projects that showcase my skills and interes
 ## 💼 Projects
 
 ### SQL
-#### [COVID- 19 Data Exploration](https://github.com/Craig-Vaughan-R/CovidProjectSQLDataExploration)
+- #### [COVID- 19 Data Exploration](https://github.com/Craig-Vaughan-R/CovidProjectSQLDataExploration)
 
-#### [When Was the Golden Era of Video Games?](https://github.com/Craig-Vaughan-R/when-was-the-golden-era-of-video-games-)
+- #### [When Was the Golden Era of Video Games?](https://github.com/Craig-Vaughan-R/when-was-the-golden-era-of-video-games-)
 
 
 ### PowerBI
-#### [Data Professionals Survey](https://github.com/Craig-Vaughan-R/Data-Professional-Survey-Insights-PowerBI/blob/main/Data%20Profesional%20Survey%20PowerBI.pdf)
+- #### [Data Professionals Survey](https://github.com/Craig-Vaughan-R/Data-Professional-Survey-Insights-PowerBI/blob/main/Data%20Profesional%20Survey%20PowerBI.pdf)
 
 
 
