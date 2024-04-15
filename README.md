@@ -15,7 +15,7 @@ Created dashboard using survey results from  data professionals conducted by Ale
 - #### [Adventure Works](https://github.com/Craig-Vaughan-R/AdventureWorks-Project)
 
 ### Python
-- #### [Adventure Works](https://github.com/Craig-Vaughan-R/AdventureWorks-Project)
+- #### [Adventure Works Visuals](https://github.com/Craig-Vaughan-R/AdventureWorks-Project)
 
 
 
