@@ -2,7 +2,7 @@
   
 Welcome to my Data Analyst portfolio! 
 Here you'll find a collection of my projects.
-## 📬 Contact Me
+## 📬 Get in Touch With Me
 #### [Linkedin](https://www.linkedin.com/in/craig-vaughan-r/) | Email: craig.ragavaloo@outlook.com
 
 ## 💼 Projects
