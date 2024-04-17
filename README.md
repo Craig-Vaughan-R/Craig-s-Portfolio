@@ -16,7 +16,7 @@ Here you'll find a collection of my projects.
 - #### [Adventure Works](https://github.com/Craig-Vaughan-R/AdventureWorks-Project)
 
 ### Python
-- #### [Adventure Works Visuals](https://github.com/Craig-Vaughan-R/AdventureWorks-Project)
+- #### [Amazon Price Tracker](https://github.com/Craig-Vaughan-R/Amazon-Price-Tracker)
 
 ### Microsoft Excel
 
