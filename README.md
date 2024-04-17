@@ -13,7 +13,6 @@ Here you'll find a collection of my projects.
 ### SQL
 - #### [COVID- 19 Data Exploration](https://github.com/Craig-Vaughan-R/CovidProjectSQLDataExploration)
 - #### [When Was the Golden Era of Video Games?](https://github.com/Craig-Vaughan-R/when-was-the-golden-era-of-video-games-)
-- #### [Adventure Works](https://github.com/Craig-Vaughan-R/AdventureWorks-Project)
 
 ### Python
 - #### [Amazon Price Tracker](https://github.com/Craig-Vaughan-R/Amazon-Price-Tracker)
