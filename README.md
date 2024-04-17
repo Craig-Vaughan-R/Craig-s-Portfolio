@@ -18,7 +18,6 @@ Here you'll find a collection of my projects.
 ### Python
 - #### [Amazon Price Tracker](https://github.com/Craig-Vaughan-R/Amazon-Price-Tracker)
 
-### Microsoft Excel
 
 
 
